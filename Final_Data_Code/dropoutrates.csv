@@ -1,0 +1,1021 @@
+State,Year,Data
+Alabama,2019,10000
+Alabama,2016,10000
+Alabama,2017,13000
+Alabama,2012,16000
+Alabama,2014,14000
+Alabama,2011,17000
+Alabama,2015,11000
+Alabama,2010,21000
+Alabama,2009,19000
+Alabama,2013,13000
+Alabama,2018,9000
+Alabama,2008,21000
+Alabama,2007,26000
+Alabama,2005,22000
+Alabama,2006,24000
+Alabama,2003,24000
+Alabama,2004,15000
+Alabama,2002,36000
+Alabama,2001,27000
+Alabama,2000,31000
+Alaska,2000,3000
+Alaska,2001,4000
+Alaska,2002,2000
+Alaska,2004,2000
+Alaska,2003,4000
+Alaska,2006,3000
+Alaska,2005,4000
+Alaska,2007,3000
+Alaska,2008,4000
+Alaska,2018,1000
+Alaska,2013,2000
+Alaska,2009,3000
+Alaska,2010,3000
+Alaska,2015,2000
+Alaska,2011,3000
+Alaska,2012,2000
+Alaska,2014,2000
+Alaska,2017,1000
+Alaska,2016,1000
+Alaska,2019,2000
+Arizona,2019,20000
+Arizona,2016,21000
+Arizona,2017,21000
+Arizona,2014,19000
+Arizona,2012,20000
+Arizona,2011,24000
+Arizona,2015,23000
+Arizona,2010,30000
+Arizona,2009,27000
+Arizona,2013,21000
+Arizona,2018,22000
+Arizona,2008,32000
+Arizona,2007,34000
+Arizona,2005,28000
+Arizona,2006,31000
+Arizona,2003,35000
+Arizona,2004,31000
+Arizona,2002,34000
+Arizona,2001,39000
+Arizona,2000,49000
+Arkansas,2000,17000
+Arkansas,2001,10000
+Arkansas,2002,14000
+Arkansas,2004,10000
+Arkansas,2003,9000
+Arkansas,2006,10000
+Arkansas,2005,12000
+Arkansas,2007,11000
+Arkansas,2008,15000
+Arkansas,2018,8000
+Arkansas,2013,7000
+Arkansas,2009,11000
+Arkansas,2010,14000
+Arkansas,2015,9000
+Arkansas,2011,7000
+Arkansas,2012,9000
+Arkansas,2014,8000
+Arkansas,2017,6000
+Arkansas,2016,8000
+Arkansas,2019,6000
+California,2019,48000
+California,2016,62000
+California,2017,57000
+California,2012,79000
+California,2014,62000
+California,2011,88000
+California,2015,59000
+California,2010,114000
+California,2009,113000
+California,2013,73000
+California,2018,50000
+California,2008,141000
+California,2007,144000
+California,2005,134000
+California,2006,141000
+California,2003,136000
+California,2004,123000
+California,2002,143000
+California,2001,188000
+California,2000,180000
+Colorado,2000,25000
+Colorado,2001,32000
+Colorado,2002,25000
+Colorado,2004,18000
+Colorado,2003,17000
+Colorado,2006,23000
+Colorado,2005,19000
+Colorado,2007,18000
+Colorado,2008,20000
+Colorado,2018,11000
+Colorado,2013,11000
+Colorado,2009,20000
+Colorado,2010,15000
+Colorado,2015,14000
+Colorado,2011,16000
+Colorado,2012,11000
+Colorado,2014,13000
+Colorado,2017,12000
+Colorado,2016,13000
+Colorado,2019,11000
+Connecticut,2019,4000
+Connecticut,2016,6000
+Connecticut,2017,3000
+Connecticut,2014,6000
+Connecticut,2012,6000
+Connecticut,2011,7000
+Connecticut,2015,5000
+Connecticut,2009,9000
+Connecticut,2010,8000
+Connecticut,2013,6000
+Connecticut,2018,4000
+Connecticut,2008,10000
+Connecticut,2007,8000
+Connecticut,2005,7000
+Connecticut,2006,8000
+Connecticut,2003,13000
+Connecticut,2004,7000
+Connecticut,2002,10000
+Connecticut,2001,11000
+Connecticut,2000,16000
+Delaware,2000,5000
+Delaware,2001,4000
+Delaware,2002,4000
+Delaware,2004,3000
+Delaware,2003,3000
+Delaware,2006,3000
+Delaware,2005,4000
+Delaware,2007,4000
+Delaware,2008,4000
+Delaware,2013,1000
+Delaware,2018,2000
+Delaware,2010,3000
+Delaware,2009,3000
+Delaware,2015,2000
+Delaware,2011,3000
+Delaware,2012,3000
+Delaware,2014,1000
+Delaware,2017,1000
+Delaware,2016,3000
+Delaware,2019,2000
+District of Columbia,2019,1000
+District of Columbia,2016,<500
+District of Columbia,2017,1000
+District of Columbia,2014,1000
+District of Columbia,2012,1000
+District of Columbia,2011,2000
+District of Columbia,2015,1000
+District of Columbia,2010,2000
+District of Columbia,2009,3000
+District of Columbia,2018,1000
+District of Columbia,2013,2000
+District of Columbia,2008,3000
+District of Columbia,2007,3000
+District of Columbia,2006,2000
+District of Columbia,2005,1000
+District of Columbia,2003,1000
+District of Columbia,2004,1000
+District of Columbia,2002,2000
+District of Columbia,2001,2000
+District of Columbia,2000,3000
+Florida,2000,88000
+Florida,2001,85000
+Florida,2002,66000
+Florida,2004,70000
+Florida,2003,61000
+Florida,2005,75000
+Florida,2006,74000
+Florida,2007,81000
+Florida,2008,65000
+Florida,2018,49000
+Florida,2013,48000
+Florida,2009,67000
+Florida,2010,58000
+Florida,2015,49000
+Florida,2011,56000
+Florida,2012,48000
+Florida,2014,47000
+Florida,2017,47000
+Florida,2016,45000
+Florida,2019,37000
+Georgia,2019,30000
+Georgia,2016,30000
+Georgia,2017,28000
+Georgia,2014,28000
+Georgia,2012,34000
+Georgia,2011,40000
+Georgia,2015,29000
+Georgia,2010,43000
+Georgia,2009,45000
+Georgia,2018,27000
+Georgia,2013,33000
+Georgia,2008,49000
+Georgia,2007,57000
+Georgia,2006,52000
+Georgia,2005,49000
+Georgia,2003,46000
+Georgia,2004,53000
+Georgia,2002,60000
+Georgia,2001,58000
+Georgia,2000,70000
+Hawaii,2000,3000
+Hawaii,2001,5000
+Hawaii,2002,5000
+Hawaii,2004,2000
+Hawaii,2003,3000
+Hawaii,2005,2000
+Hawaii,2006,4000
+Hawaii,2007,3000
+Hawaii,2008,5000
+Hawaii,2013,2000
+Hawaii,2018,3000
+Hawaii,2009,5000
+Hawaii,2010,3000
+Hawaii,2015,2000
+Hawaii,2011,3000
+Hawaii,2012,3000
+Hawaii,2014,3000
+Hawaii,2017,2000
+Hawaii,2016,2000
+Hawaii,2019,2000
+Idaho,2019,3000
+Idaho,2016,3000
+Idaho,2017,5000
+Idaho,2012,4000
+Idaho,2014,3000
+Idaho,2011,4000
+Idaho,2015,6000
+Idaho,2010,5000
+Idaho,2009,6000
+Idaho,2018,5000
+Idaho,2013,6000
+Idaho,2008,6000
+Idaho,2007,6000
+Idaho,2006,6000
+Idaho,2005,7000
+Idaho,2003,6000
+Idaho,2004,5000
+Idaho,2002,8000
+Idaho,2001,9000
+Idaho,2000,9000
+Illinois,2000,60000
+Illinois,2001,65000
+Illinois,2002,49000
+Illinois,2004,41000
+Illinois,2003,49000
+Illinois,2005,44000
+Illinois,2006,41000
+Illinois,2007,45000
+Illinois,2008,44000
+Illinois,2013,25000
+Illinois,2018,23000
+Illinois,2009,44000
+Illinois,2010,37000
+Illinois,2015,23000
+Illinois,2011,36000
+Illinois,2012,26000
+Illinois,2014,25000
+Illinois,2017,25000
+Illinois,2016,26000
+Illinois,2019,24000
+Indiana,2019,21000
+Indiana,2016,18000
+Indiana,2017,22000
+Indiana,2014,18000
+Indiana,2012,23000
+Indiana,2011,23000
+Indiana,2015,18000
+Indiana,2010,25000
+Indiana,2009,27000
+Indiana,2018,19000
+Indiana,2013,19000
+Indiana,2008,30000
+Indiana,2007,25000
+Indiana,2006,28000
+Indiana,2005,27000
+Indiana,2003,34000
+Indiana,2004,40000
+Indiana,2002,39000
+Indiana,2001,45000
+Indiana,2000,44000
+Iowa,2000,8000
+Iowa,2001,6000
+Iowa,2002,7000
+Iowa,2004,5000
+Iowa,2003,9000
+Iowa,2005,8000
+Iowa,2006,8000
+Iowa,2007,7000
+Iowa,2008,6000
+Iowa,2013,5000
+Iowa,2018,8000
+Iowa,2009,9000
+Iowa,2010,8000
+Iowa,2015,6000
+Iowa,2011,8000
+Iowa,2012,6000
+Iowa,2014,6000
+Iowa,2017,8000
+Iowa,2016,7000
+Iowa,2019,7000
+Kansas,2019,6000
+Kansas,2016,7000
+Kansas,2017,7000
+Kansas,2014,6000
+Kansas,2012,8000
+Kansas,2011,7000
+Kansas,2015,6000
+Kansas,2010,7000
+Kansas,2009,8000
+Kansas,2018,6000
+Kansas,2013,5000
+Kansas,2008,8000
+Kansas,2007,7000
+Kansas,2006,7000
+Kansas,2005,9000
+Kansas,2003,8000
+Kansas,2004,10000
+Kansas,2002,10000
+Kansas,2001,11000
+Kansas,2000,15000
+Kentucky,2000,22000
+Kentucky,2001,21000
+Kentucky,2002,22000
+Kentucky,2004,20000
+Kentucky,2003,18000
+Kentucky,2005,18000
+Kentucky,2006,20000
+Kentucky,2007,19000
+Kentucky,2008,16000
+Kentucky,2013,9000
+Kentucky,2018,10000
+Kentucky,2009,17000
+Kentucky,2010,15000
+Kentucky,2015,10000
+Kentucky,2011,10000
+Kentucky,2012,10000
+Kentucky,2014,9000
+Kentucky,2017,10000
+Kentucky,2016,13000
+Kentucky,2019,12000
+Louisiana,2019,14000
+Louisiana,2016,16000
+Louisiana,2017,14000
+Louisiana,2014,16000
+Louisiana,2012,19000
+Louisiana,2011,18000
+Louisiana,2015,14000
+Louisiana,2010,26000
+Louisiana,2009,20000
+Louisiana,2018,11000
+Louisiana,2013,20000
+Louisiana,2008,27000
+Louisiana,2007,26000
+Louisiana,2006,31000
+Louisiana,2005,21000
+Louisiana,2003,29000
+Louisiana,2004,27000
+Louisiana,2002,31000
+Louisiana,2001,30000
+Louisiana,2000,29000
+Maine,2000,3000
+Maine,2001,5000
+Maine,2002,5000
+Maine,2004,3000
+Maine,2003,5000
+Maine,2005,4000
+Maine,2006,3000
+Maine,2007,4000
+Maine,2008,4000
+Maine,2013,2000
+Maine,2018,3000
+Maine,2009,3000
+Maine,2010,3000
+Maine,2015,2000
+Maine,2011,2000
+Maine,2012,2000
+Maine,2014,2000
+Maine,2017,2000
+Maine,2016,2000
+Maine,2019,2000
+Maryland,2019,13000
+Maryland,2016,10000
+Maryland,2017,9000
+Maryland,2014,11000
+Maryland,2012,14000
+Maryland,2011,15000
+Maryland,2015,12000
+Maryland,2010,18000
+Maryland,2009,16000
+Maryland,2018,7000
+Maryland,2013,12000
+Maryland,2008,20000
+Maryland,2007,22000
+Maryland,2006,21000
+Maryland,2005,21000
+Maryland,2003,16000
+Maryland,2004,21000
+Maryland,2002,21000
+Maryland,2001,22000
+Maryland,2000,28000
+Massachusetts,2000,21000
+Massachusetts,2001,13000
+Massachusetts,2002,17000
+Massachusetts,2004,21000
+Massachusetts,2003,14000
+Massachusetts,2005,14000
+Massachusetts,2006,15000
+Massachusetts,2007,20000
+Massachusetts,2008,17000
+Massachusetts,2013,11000
+Massachusetts,2018,12000
+Massachusetts,2009,16000
+Massachusetts,2010,14000
+Massachusetts,2015,9000
+Massachusetts,2011,12000
+Massachusetts,2012,11000
+Massachusetts,2014,10000
+Massachusetts,2017,12000
+Massachusetts,2016,9000
+Massachusetts,2019,10000
+Michigan,2019,19000
+Michigan,2016,26000
+Michigan,2017,17000
+Michigan,2014,21000
+Michigan,2012,25000
+Michigan,2011,30000
+Michigan,2015,24000
+Michigan,2010,30000
+Michigan,2009,34000
+Michigan,2018,22000
+Michigan,2013,28000
+Michigan,2008,37000
+Michigan,2007,33000
+Michigan,2006,36000
+Michigan,2005,35000
+Michigan,2003,33000
+Michigan,2004,38000
+Michigan,2002,40000
+Michigan,2001,42000
+Michigan,2000,51000
+Minnesota,2000,20000
+Minnesota,2001,12000
+Minnesota,2002,15000
+Minnesota,2004,13000
+Minnesota,2003,18000
+Minnesota,2005,11000
+Minnesota,2006,12000
+Minnesota,2007,9000
+Minnesota,2008,8000
+Minnesota,2013,10000
+Minnesota,2018,9000
+Minnesota,2009,11000
+Minnesota,2010,11000
+Minnesota,2015,8000
+Minnesota,2011,10000
+Minnesota,2012,9000
+Minnesota,2014,8000
+Minnesota,2017,9000
+Minnesota,2016,9000
+Minnesota,2019,9000
+Mississippi,2019,10000
+Mississippi,2016,8000
+Mississippi,2017,9000
+Mississippi,2014,9000
+Mississippi,2012,12000
+Mississippi,2011,11000
+Mississippi,2015,9000
+Mississippi,2010,16000
+Mississippi,2009,14000
+Mississippi,2018,10000
+Mississippi,2013,11000
+Mississippi,2008,14000
+Mississippi,2007,16000
+Mississippi,2006,19000
+Mississippi,2005,14000
+Mississippi,2004,16000
+Mississippi,2003,17000
+Mississippi,2002,19000
+Mississippi,2001,24000
+Mississippi,2000,25000
+Missouri,2000,34000
+Missouri,2001,34000
+Missouri,2002,30000
+Missouri,2003,23000
+Missouri,2004,21000
+Missouri,2005,23000
+Missouri,2006,20000
+Missouri,2007,25000
+Missouri,2008,22000
+Missouri,2013,14000
+Missouri,2018,15000
+Missouri,2009,24000
+Missouri,2010,20000
+Missouri,2015,15000
+Missouri,2011,18000
+Missouri,2012,18000
+Missouri,2014,14000
+Missouri,2017,13000
+Missouri,2016,14000
+Missouri,2019,14000
+Montana,2019,3000
+Montana,2017,3000
+Montana,2016,2000
+Montana,2014,3000
+Montana,2012,3000
+Montana,2011,4000
+Montana,2015,3000
+Montana,2010,4000
+Montana,2009,5000
+Montana,2018,4000
+Montana,2013,3000
+Montana,2008,5000
+Montana,2007,4000
+Montana,2006,5000
+Montana,2005,4000
+Montana,2004,5000
+Montana,2003,5000
+Montana,2002,4000
+Montana,2001,4000
+Montana,2000,3000
+Nebraska,2000,6000
+Nebraska,2001,7000
+Nebraska,2002,7000
+Nebraska,2003,7000
+Nebraska,2004,5000
+Nebraska,2005,5000
+Nebraska,2006,6000
+Nebraska,2007,4000
+Nebraska,2008,5000
+Nebraska,2013,2000
+Nebraska,2018,3000
+Nebraska,2009,5000
+Nebraska,2010,3000
+Nebraska,2015,3000
+Nebraska,2011,3000
+Nebraska,2012,4000
+Nebraska,2014,3000
+Nebraska,2016,2000
+Nebraska,2017,3000
+Nebraska,2019,3000
+Nevada,2019,6000
+Nevada,2017,7000
+Nevada,2016,10000
+Nevada,2014,6000
+Nevada,2012,9000
+Nevada,2011,10000
+Nevada,2015,8000
+Nevada,2010,13000
+Nevada,2009,16000
+Nevada,2018,8000
+Nevada,2013,8000
+Nevada,2008,13000
+Nevada,2007,15000
+Nevada,2006,13000
+Nevada,2005,13000
+Nevada,2004,12000
+Nevada,2003,11000
+Nevada,2002,13000
+Nevada,2001,10000
+Nevada,2000,14000
+New Hampshire,2000,5000
+New Hampshire,2001,3000
+New Hampshire,2002,5000
+New Hampshire,2003,4000
+New Hampshire,2004,5000
+New Hampshire,2005,4000
+New Hampshire,2006,3000
+New Hampshire,2007,3000
+New Hampshire,2008,3000
+New Hampshire,2013,1000
+New Hampshire,2018,2000
+New Hampshire,2009,2000
+New Hampshire,2010,2000
+New Hampshire,2015,1000
+New Hampshire,2011,2000
+New Hampshire,2012,2000
+New Hampshire,2014,2000
+New Hampshire,2016,2000
+New Hampshire,2017,2000
+New Hampshire,2019,3000
+New Jersey,2019,8000
+New Jersey,2017,12000
+New Jersey,2016,12000
+New Jersey,2014,12000
+New Jersey,2012,12000
+New Jersey,2011,15000
+New Jersey,2015,11000
+New Jersey,2010,19000
+New Jersey,2009,16000
+New Jersey,2018,10000
+New Jersey,2013,13000
+New Jersey,2008,18000
+New Jersey,2007,22000
+New Jersey,2006,22000
+New Jersey,2005,25000
+New Jersey,2004,22000
+New Jersey,2003,15000
+New Jersey,2002,16000
+New Jersey,2001,19000
+New Jersey,2000,29000
+New Mexico,2000,17000
+New Mexico,2001,11000
+New Mexico,2002,16000
+New Mexico,2003,10000
+New Mexico,2004,14000
+New Mexico,2005,11000
+New Mexico,2006,12000
+New Mexico,2007,10000
+New Mexico,2008,11000
+New Mexico,2013,7000
+New Mexico,2018,8000
+New Mexico,2009,11000
+New Mexico,2010,12000
+New Mexico,2015,9000
+New Mexico,2011,10000
+New Mexico,2012,10000
+New Mexico,2014,8000
+New Mexico,2016,8000
+New Mexico,2017,8000
+New Mexico,2019,7000
+New York,2019,35000
+New York,2017,33000
+New York,2016,37000
+New York,2014,41000
+New York,2012,45000
+New York,2011,51000
+New York,2015,36000
+New York,2010,58000
+New York,2009,61000
+New York,2018,30000
+New York,2013,43000
+New York,2008,62000
+New York,2007,62000
+New York,2006,63000
+New York,2005,61000
+New York,2004,78000
+New York,2003,65000
+New York,2002,73000
+New York,2001,81000
+New York,2000,82000
+North Carolina,2000,59000
+North Carolina,2001,53000
+North Carolina,2002,39000
+North Carolina,2003,44000
+North Carolina,2004,34000
+North Carolina,2005,37000
+North Carolina,2006,36000
+North Carolina,2007,40000
+North Carolina,2008,41000
+North Carolina,2013,27000
+North Carolina,2018,25000
+North Carolina,2009,39000
+North Carolina,2010,37000
+North Carolina,2015,25000
+North Carolina,2011,29000
+North Carolina,2012,29000
+North Carolina,2014,22000
+North Carolina,2016,22000
+North Carolina,2017,26000
+North Carolina,2019,24000
+North Dakota,2019,2000
+North Dakota,2017,2000
+North Dakota,2016,2000
+North Dakota,2014,2000
+North Dakota,2012,1000
+North Dakota,2011,2000
+North Dakota,2015,2000
+North Dakota,2010,1000
+North Dakota,2009,2000
+North Dakota,2018,1000
+North Dakota,2013,2000
+North Dakota,2008,3000
+North Dakota,2007,1000
+North Dakota,2006,1000
+North Dakota,2005,1000
+North Dakota,2004,1000
+North Dakota,2003,1000
+North Dakota,2002,1000
+North Dakota,2001,2000
+North Dakota,2000,1000
+Ohio,2000,56000
+Ohio,2001,48000
+Ohio,2002,41000
+Ohio,2003,39000
+Ohio,2004,33000
+Ohio,2005,37000
+Ohio,2006,36000
+Ohio,2007,34000
+Ohio,2008,32000
+Ohio,2013,24000
+Ohio,2018,28000
+Ohio,2009,33000
+Ohio,2010,36000
+Ohio,2015,24000
+Ohio,2011,28000
+Ohio,2012,25000
+Ohio,2014,24000
+Ohio,2016,27000
+Ohio,2017,25000
+Ohio,2019,27000
+Oklahoma,2019,10000
+Oklahoma,2017,12000
+Oklahoma,2016,12000
+Oklahoma,2014,12000
+Oklahoma,2012,14000
+Oklahoma,2011,13000
+Oklahoma,2015,11000
+Oklahoma,2010,16000
+Oklahoma,2009,17000
+Oklahoma,2018,11000
+Oklahoma,2013,13000
+Oklahoma,2008,18000
+Oklahoma,2007,16000
+Oklahoma,2006,16000
+Oklahoma,2005,18000
+Oklahoma,2004,11000
+Oklahoma,2003,13000
+Oklahoma,2002,19000
+Oklahoma,2001,27000
+Oklahoma,2000,29000
+Oregon,2000,20000
+Oregon,2001,14000
+Oregon,2002,11000
+Oregon,2003,14000
+Oregon,2004,10000
+Oregon,2005,12000
+Oregon,2006,14000
+Oregon,2007,14000
+Oregon,2008,13000
+Oregon,2013,9000
+Oregon,2018,7000
+Oregon,2009,12000
+Oregon,2010,13000
+Oregon,2015,8000
+Oregon,2011,10000
+Oregon,2012,8000
+Oregon,2014,12000
+Oregon,2016,10000
+Oregon,2017,8000
+Oregon,2019,8000
+Pennsylvania,2019,27000
+Pennsylvania,2017,29000
+Pennsylvania,2016,26000
+Pennsylvania,2014,27000
+Pennsylvania,2012,31000
+Pennsylvania,2011,30000
+Pennsylvania,2015,28000
+Pennsylvania,2010,33000
+Pennsylvania,2009,37000
+Pennsylvania,2018,32000
+Pennsylvania,2013,27000
+Pennsylvania,2008,37000
+Pennsylvania,2007,41000
+Pennsylvania,2006,42000
+Pennsylvania,2005,39000
+Pennsylvania,2004,32000
+Pennsylvania,2003,44000
+Pennsylvania,2002,53000
+Pennsylvania,2001,47000
+Pennsylvania,2000,44000
+Rhode Island,2000,5000
+Rhode Island,2001,4000
+Rhode Island,2002,3000
+Rhode Island,2003,3000
+Rhode Island,2004,4000
+Rhode Island,2005,4000
+Rhode Island,2006,5000
+Rhode Island,2007,4000
+Rhode Island,2008,4000
+Rhode Island,2013,2000
+Rhode Island,2018,1000
+Rhode Island,2009,4000
+Rhode Island,2010,3000
+Rhode Island,2015,2000
+Rhode Island,2011,3000
+Rhode Island,2012,3000
+Rhode Island,2014,2000
+Rhode Island,2016,2000
+Rhode Island,2017,2000
+Rhode Island,2019,2000
+South Carolina,2019,11000
+South Carolina,2017,11000
+South Carolina,2016,13000
+South Carolina,2014,10000
+South Carolina,2012,15000
+South Carolina,2011,18000
+South Carolina,2015,10000
+South Carolina,2010,17000
+South Carolina,2009,18000
+South Carolina,2018,13000
+South Carolina,2013,13000
+South Carolina,2008,18000
+South Carolina,2007,23000
+South Carolina,2006,20000
+South Carolina,2005,20000
+South Carolina,2004,21000
+South Carolina,2003,15000
+South Carolina,2002,22000
+South Carolina,2001,18000
+South Carolina,2000,29000
+South Dakota,2000,4000
+South Dakota,2001,3000
+South Dakota,2002,3000
+South Dakota,2003,3000
+South Dakota,2004,2000
+South Dakota,2005,3000
+South Dakota,2006,3000
+South Dakota,2007,3000
+South Dakota,2008,3000
+South Dakota,2013,2000
+South Dakota,2018,3000
+South Dakota,2009,3000
+South Dakota,2010,4000
+South Dakota,2015,3000
+South Dakota,2011,2000
+South Dakota,2012,1000
+South Dakota,2014,2000
+South Dakota,2016,2000
+South Dakota,2017,2000
+South Dakota,2019,2000
+Tennessee,2019,10000
+Tennessee,2017,12000
+Tennessee,2016,10000
+Tennessee,2014,14000
+Tennessee,2012,12000
+Tennessee,2011,13000
+Tennessee,2015,9000
+Tennessee,2010,16000
+Tennessee,2009,18000
+Tennessee,2018,12000
+Tennessee,2013,11000
+Tennessee,2008,23000
+Tennessee,2007,24000
+Tennessee,2006,20000
+Tennessee,2005,24000
+Tennessee,2004,30000
+Tennessee,2003,23000
+Tennessee,2002,27000
+Tennessee,2001,29000
+Tennessee,2000,31000
+Texas,2000,162000
+Texas,2001,140000
+Texas,2002,124000
+Texas,2003,111000
+Texas,2004,116000
+Texas,2005,98000
+Texas,2006,105000
+Texas,2007,116000
+Texas,2008,105000
+Texas,2013,75000
+Texas,2018,67000
+Texas,2009,105000
+Texas,2010,99000
+Texas,2015,71000
+Texas,2011,88000
+Texas,2012,79000
+Texas,2014,79000
+Texas,2016,76000
+Texas,2017,74000
+Texas,2019,68000
+Utah,2019,7000
+Utah,2017,8000
+Utah,2016,10000
+Utah,2014,8000
+Utah,2012,9000
+Utah,2011,6000
+Utah,2015,7000
+Utah,2010,10000
+Utah,2009,8000
+Utah,2018,6000
+Utah,2013,7000
+Utah,2008,12000
+Utah,2007,9000
+Utah,2006,10000
+Utah,2005,10000
+Utah,2004,8000
+Utah,2003,8000
+Utah,2002,11000
+Utah,2001,13000
+Utah,2000,10000
+Vermont,2000,2000
+Vermont,2001,3000
+Vermont,2002,2000
+Vermont,2003,2000
+Vermont,2004,1000
+Vermont,2005,2000
+Vermont,2006,2000
+Vermont,2007,1000
+Vermont,2008,1000
+Vermont,2013,1000
+Vermont,2018,S
+Vermont,2009,2000
+Vermont,2010,1000
+Vermont,2015,1000
+Vermont,2011,1000
+Vermont,2012,1000
+Vermont,2014,1000
+Vermont,2016,1000
+Vermont,2017,1000
+Vermont,2019,1000
+Virginia,2019,10000
+Virginia,2017,10000
+Virginia,2016,13000
+Virginia,2014,10000
+Virginia,2012,13000
+Virginia,2011,16000
+Virginia,2015,14000
+Virginia,2010,15000
+Virginia,2009,17000
+Virginia,2018,8000
+Virginia,2013,14000
+Virginia,2008,19000
+Virginia,2007,22000
+Virginia,2006,23000
+Virginia,2005,21000
+Virginia,2004,26000
+Virginia,2003,20000
+Virginia,2002,28000
+Virginia,2001,24000
+Virginia,2000,31000
+Washington,2000,28000
+Washington,2001,30000
+Washington,2002,26000
+Washington,2003,20000
+Washington,2004,23000
+Washington,2005,24000
+Washington,2006,23000
+Washington,2007,25000
+Washington,2008,25000
+Washington,2013,12000
+Washington,2018,14000
+Washington,2009,23000
+Washington,2010,20000
+Washington,2015,16000
+Washington,2011,17000
+Washington,2012,16000
+Washington,2014,16000
+Washington,2016,17000
+Washington,2017,16000
+Washington,2019,14000
+West Virginia,2019,4000
+West Virginia,2017,3000
+West Virginia,2016,4000
+West Virginia,2014,4000
+West Virginia,2012,4000
+West Virginia,2011,6000
+West Virginia,2015,3000
+West Virginia,2010,6000
+West Virginia,2009,9000
+West Virginia,2018,3000
+West Virginia,2013,4000
+West Virginia,2008,8000
+West Virginia,2007,7000
+West Virginia,2006,8000
+West Virginia,2005,7000
+West Virginia,2004,6000
+West Virginia,2003,9000
+West Virginia,2002,6000
+West Virginia,2001,8000
+West Virginia,2000,7000
+Wisconsin,2000,16000
+Wisconsin,2001,23000
+Wisconsin,2002,19000
+Wisconsin,2003,11000
+Wisconsin,2004,21000
+Wisconsin,2005,16000
+Wisconsin,2006,16000
+Wisconsin,2007,14000
+Wisconsin,2008,12000
+Wisconsin,2013,11000
+Wisconsin,2018,12000
+Wisconsin,2009,13000
+Wisconsin,2010,14000
+Wisconsin,2015,10000
+Wisconsin,2011,13000
+Wisconsin,2012,9000
+Wisconsin,2014,10000
+Wisconsin,2016,13000
+Wisconsin,2017,9000
+Wisconsin,2019,10000
+Wyoming,2019,1000
+Wyoming,2017,1000
+Wyoming,2016,1000
+Wyoming,2014,1000
+Wyoming,2012,1000
+Wyoming,2011,1000
+Wyoming,2015,3000
+Wyoming,2010,2000
+Wyoming,2009,2000
+Wyoming,2018,1000
+Wyoming,2013,1000
+Wyoming,2008,2000
+Wyoming,2007,2000
+Wyoming,2006,2000
+Wyoming,2005,2000
+Wyoming,2004,2000
+Wyoming,2003,2000
+Wyoming,2002,2000
+Wyoming,2001,3000
+Wyoming,2000,3000
